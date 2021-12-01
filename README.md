@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: nmooney@zagmail.gonzaga.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am a long time climber
+- ⚡ Fun fact: i am enthusiast climber
 - 🔭 I’m currently working on a Fullstack Web Dev Project
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Nodejs and postgreSQL
