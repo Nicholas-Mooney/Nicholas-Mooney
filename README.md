@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am enthusiast climber
 - 🔭 I’m currently working on a Fullstack Web Dev Project
-- 🌱 I’m currently learning Nodejs and postgreSQL
+- 🌱 I’m currently learning Nodejs and postgres
